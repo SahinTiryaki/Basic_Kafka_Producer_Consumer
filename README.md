@@ -9,5 +9,4 @@ Apache Kafka'nın Java entegrasyonu kullanılarak  kullancıdan alınan bilginin
 <li> ZooKeeper 3.5.9 </li>
 
 
-## Çok temel bilgiler
-https://github.com/SahinTiryaki/Basic_Kafka_Producer_Consumer/blob/main/documents/kafka.pdf
+**Bu çalışmayla ilgili temel bilgiler:** https://github.com/SahinTiryaki/Basic_Kafka_Producer_Consumer/blob/main/documents/kafka.pdf
