@@ -1,3 +1,9 @@
 # Basic_Kafka_Producer_Consumer
 
-Apache Kafka kullanarak Javadan Produce edilen topic'i konsoldan Consume eder.
+Apache Kafka'nın Java entegrasyonu kullanılarak  kullancıdan alınan bilginin search topicinden produce edilmiştir. Produce edilen bilgiler konsol tarafından consume edilmiştir.
+
+
+## Requirements
+<li> Apache kafka 3.1 </li>
+<li> Java, Maven </li>
+<li> ZooKeeper 3.5.9 </li>
