@@ -2,6 +2,11 @@
 
 Apache Kafka'nın Java entegrasyonu kullanılarak  kullancıdan alınan bilginin search topicinden produce edilmiştir. Produce edilen bilgiler konsol tarafından consume edilmiştir.
 
+## Video
+
+
+https://user-images.githubusercontent.com/59391291/152687347-a937ccd7-b0ee-44f8-9b03-b61a4149f455.mp4
+
 
 ## Requirements
 <li> Apache kafka 3.1 </li>
